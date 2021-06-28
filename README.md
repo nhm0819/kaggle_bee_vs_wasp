@@ -15,7 +15,7 @@ Data 출처 : https://www.kaggle.com/jerzydziewierz/bee-vs-wasp <br>
 - model_DenseNet2_fold_15.h5 : test[loss=0.2544 -accuracy=0.9124] : DenseNet121 - Cross Validation<br><br><br>
 
 ---
-###### 결론
+###### 05/30
 ##### 모델의 Layer를 간소화하는 것으론 한계가 있음.
 ##### Data Augmentation 시도
 ##### 추후 더 깊은 ResNet의 적용 및 Data Augmentation, Object Detection 등과 같은 기술들을 추가적으로 적용해 나갈 것<br><br>
