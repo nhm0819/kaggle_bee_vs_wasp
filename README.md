@@ -12,7 +12,7 @@ Data 출처 : https://www.kaggle.com/jerzydziewierz/bee-vs-wasp <br>
 
 
 ##### bee vs wasp vs insect
-- model_DenseNet2_fold_15.h5 : test[loss=0.2544 -accuracy=0.9124] : DenseNet121 - Cross Validation<br><br><br>
+- model_DenseNet2_fold_15.h5 : train[loss: 0.1299 - accuracy: 0.9531], test[loss:0.2544 - accuracy:0.9124] : DenseNet121 - Cross Validation<br><br><br>
 
 ---
 ###### 05/30
